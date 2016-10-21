@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fly-Calculator</string>
+    <string name="name">简易计算器</string>
+    <string name="button_tob">二进制</string>
+    <string name="button_too">八进制</string>
+    <string name="button_toh">十六进制</string>
+    <string name="button_bracket">( )</string>
+    <string name="button_0">0</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_point">.</string>
+    <string name="button_add">+</string>
+    <string name="button_min">-</string>
+    <string name="button_mul">*</string>
+    <string name="button_div">÷</string>
+    <string name="button_c">c</string>
+    <string name="button_ce">ce</string>
+    <string name="button_equal">=</string>
+</resources>
